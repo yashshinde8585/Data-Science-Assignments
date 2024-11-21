@@ -1,0 +1,12 @@
+Assignment 8
+1)Load iris dataset into dataframe
+2)Display information about dataset (number of rows,columns)
+3)Display information about dataframe
+4)Display statistical summary of dataset
+5)Display count of missing values in given dataset
+6)Remove duplicate values from dataset
+7) Display unique count of values for species column
+8)Display count of number of observation of each species by using barplot
+9)Display relation between features sepal length and sepal width using scatter plot and show legend outside figure
+10)Display relation between features petal length and petal width using scatter plot and show legend outside figure
+11)Display histograms of sepal length, sepal width, petal length, petal width in one graph and also give title to each histogram.
